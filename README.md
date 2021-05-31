@@ -1,4 +1,5 @@
-# SOPT 24rd
+# SOPT 24th
+![image](https://user-images.githubusercontent.com/28949235/120161449-47948080-c232-11eb-9324-941a41d9a6f3.png)
 
 ## 일정
 
